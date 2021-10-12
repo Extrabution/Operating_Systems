@@ -1,0 +1,5 @@
+Pages -8KB -> offset should be 13 bits.
+8KB = 2^13B
+We have only 3 bits for number of page -> only 8 pages is availbale.
+Answer: 8 enteries
+

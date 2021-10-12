@@ -1,0 +1,4 @@
+Virtual and Phisical memory are different.
+Physical is hardware adresses, they are actually exist in our computer.
+Virtual memory like a cloud - it is somewhere, but we don't know where. Process 
+asks for information but it doesn't know where this information is. Virtual adress transforms to the physical adress and return the place of needed information to the process
