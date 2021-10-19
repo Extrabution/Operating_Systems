@@ -1,0 +1,10 @@
+The more discharged the references are, the less hit/miss ratio.
+It also wags how large the page frame is and how many requests are made. 
+To increase the hit/ miss ratio, you need to reduce the page frame 
+and increase the number of requests.
+
+10 - number of requests
+10 - number of page frames
+
+Increase: 1 2 5 4 6 1 7 8 5 9
+Decrease: 1 2 3 3 3 1 4 2 1 4
