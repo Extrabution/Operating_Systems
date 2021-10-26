@@ -1,0 +1,4 @@
+File —– Hard Links
+link1.txt --- link1.txt file1.txt 
+file2.txt --- file2.txt 
+file1.txt --- link1.txt file1.txt 
