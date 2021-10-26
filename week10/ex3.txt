@@ -1,0 +1,6 @@
+права доступа '_ex3.txt' изменены с 0664 (rw-rw-r--) на 0666 (rw-rw-rw-)
+права доступа '_ex3.txt' изменены с 0666 (rw-rw-rw-) на 0767 (rwxrw-rwx)
+права доступа '_ex3.txt' изменены с 0767 (rwxrw-rwx) на 0777 (rwxrwxrwx)
+660 -read and write permissions only for owner and groups, no permissons for others
+775 - rwx for owner and groups, rx for others
+777 - rrwx permissions for all
