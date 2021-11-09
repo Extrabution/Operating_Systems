@@ -1,0 +1,28 @@
+available shortcuts:
+ C + A + P - print "Get some cappuccino!"
+ P + E - print "I passed the Exam!"
+ T + Y - print "Wow it's a shortcut!"
+Get some cappuccino!
+Get some cappuccino!
+Get some cappuccino!
+I passed the Exam!
+Wow it's a shortcut!
+I passed the Exam!
+Wow it's a shortcut!
+I passed the Exam!
+Get some cappuccino!
+Get some cappuccino!
+Wow it's a shortcut!
+Wow it's a shortcut!
+Wow it's a shortcut!
+Get some cappuccino!
+Get some cappuccino!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+Get some cappuccino!
+Get some cappuccino!
+Wow it's a shortcut!
+Wow it's a shortcut!
+Wow it's a shortcut!
+Wow it's a shortcut!
